@@ -1,6 +1,5 @@
-# This is my 3D-BareBones texturepack for Minecraft
 # Not yours
-Don't sell this texturepack as yours!
+Don't sell this texturepack as yours or say that it is yours!!
 
-# WARNING
-dont use this for ilegal purpose
+# Info
+You can give it to others but please say that it is __not yours.__
