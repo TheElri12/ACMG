@@ -1,0 +1,10 @@
+  1.Option:without having Minecraft opened.
+1. Click on the zip-folder in GitHub and press the donload button.
+2. Then press Windos+R and type in "%appdata%" and press "OK".
+3. Search for ".minecraft", it shouldbe at the top, open it and search for "resourcepacks".
+4. Drag the zip-folder, from the "Downloads" folder, into the "resourcepacks" folder.
+
+  2.Option:have Minecraft opened.
+1. Click on the zip-folder in GitHub and press the donload button.
+2. Go to "Options" and then go to "Resourcepacks".
+3. Press "Open folder" and drag the zip-folder, from the "Downloads" folder, into the "resourcepacks" folder.
