@@ -1,8 +1,7 @@
-# Discord Login page
-this is Discord Login page clone, 100% same
+# This is my 3D-BareBones texturepack for Minecraft
 
-# Usage
-just clone this repository to your local pc/laptop
+# Not yours
+Don't sell this texturepack as yours!
 
 # WARNING
 dont use this for ilegal purpose
