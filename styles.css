@@ -9,7 +9,7 @@ body{
 }
 
 .button{
-    display: flex;
+    display: inline-block;
     color: #ffffff;
     text-decoration: none;
     padding: 20px  50px;
@@ -41,7 +41,7 @@ body{
 }
 
 .discord{
-    display: flex;
+    display: inline-block;
     color: #ffffff;
     text-decoration: none;
     padding: 20px  50px;
