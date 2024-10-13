@@ -46,11 +46,11 @@ body{
 }
 
 .discord:hover{
-    animation: pulsatte 3.5s
+    animation: flicker 3.5s
     ease-in-out;
 }
 
-@keyframes pulsatte {
+@keyframes flicker {
     0%{
         box-shadow: 
         0 0  25px #5d9eff,
