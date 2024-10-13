@@ -36,3 +36,36 @@ body{
         0 0  25px #03923a;
     }
 }
+
+.discord{
+    background: rgb(5, 100, 155);
+}
+
+.discord{
+    display: inline-flex;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 20px  50px;
+    border: 3px solid
+    #083188;
+    border-radius: 10px;
+    margin: center;
+}
+
+.discord{
+    align-items: center;
+    justify-items: center;
+}
+
+.discord:hover{
+    animation: pulsirt 3.5s
+    ease-in-out;
+}
+
+@keyframes pulsirt {
+    0%{
+        box-shadow: 
+        0 0  25px #5d90ff,
+        0 0  25px #033592;
+    }
+}
