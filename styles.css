@@ -1,0 +1,44 @@
+body{
+    background-image: url('pack.png');
+    width: 100%;
+    height: 1px;
+}
+
+.button{
+    background: rgb(5, 155, 42);
+}
+
+.button{
+    display: flex;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 20px  50px;
+    border: 3px solid
+    #088828;
+    border-radius: 10px;
+}
+
+.button{
+    align-items: center;
+    justify-items: center;
+}
+
+.button:hover{
+    animation: pulsate 3.5s
+    ease-in-out;
+}
+
+@keyframes pulsate {
+    0%{
+        box-shadow: 
+        0 0  25px #5dff9b,
+        0 0  25px #03923a;
+    }
+}
+
+
+.mitte{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
