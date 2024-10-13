@@ -9,18 +9,13 @@ body{
 }
 
 .button{
-    display: inline-block;
+    display: inline-flex;
     color: #ffffff;
     text-decoration: none;
     padding: 20px  50px;
     border: 3px solid
     #088828;
     border-radius: 10px;
-}
-
-.button{
-    align-items: center;
-    justify-items: center;
 }
 
 .button:hover{
@@ -41,18 +36,13 @@ body{
 }
 
 .discord{
-    display: inline-block;
+    display: inline-flex;
     color: #ffffff;
     text-decoration: none;
     padding: 20px  50px;
     border: 3px solid
     #083188;
     border-radius: 10px;
-}
-
-.discord{
-    align-items: center;
-    justify-items: center;
 }
 
 .discord:hover{
