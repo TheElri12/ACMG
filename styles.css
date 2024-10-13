@@ -16,6 +16,12 @@ body{
     border: 3px solid
     #088828;
     border-radius: 10px;
+    margin: center;
+}
+
+.button{
+    align-items: center;
+    justify-items: center;
 }
 
 .button:hover{
